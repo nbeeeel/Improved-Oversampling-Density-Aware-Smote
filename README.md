@@ -5,7 +5,6 @@
 ![License](https://img.shields.io/github/license/nbeeeel/Improved-Oversampling-Density-Aware-Smote)
 
 A Python package implementing **Density-Aware SMOTE** for intelligent oversampling in imbalanced classification tasks. Unlike standard SMOTE, this method allocates synthetic samples **proportionally to local minority density**: fewer synthetic points in sparse/unsafe zones, more in dense/safe zones. This reduces noise amplification and preserves true minority structure.
-
 ---
 
 ## Features
